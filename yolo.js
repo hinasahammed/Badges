@@ -1,1 +1,1 @@
-console.log("its for yolo badge")
+const pair = "Extraordinary";
